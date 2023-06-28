@@ -1,5 +1,5 @@
 # Secure-Announcement-System
-<p align= "justify">The project is implemented in VHDL on 2 Basys3 boards. The first board (FPGA_1) is responsible for
+<p align= "justify"> Vivado Webpack 2022.1 and 2 Basys3 FPGA Boards were used for this project. The first board (FPGA_1) is responsible for
 the text input (using the keyboard), encryption and transmission, while the second board (FPGA_2) is responsible for receiving, decryption and text display.
 The ecryption and decryption of the 128-bit announcement was performed using Advanced Encryption
 Standard (AES).</p>
